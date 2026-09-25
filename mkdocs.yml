@@ -1,10 +1,11 @@
 site_name: idNINE | ArtTech Notes
 theme:
   name: material
-  repo_url: https://idnine.ghost.io
-  repo_name: idNINE Home
-  icon:
-    repo: material/web
+  custom_dir: overrides
+  #repo_url: https://idnine.ghost.io
+  #repo_name: idNINE Home
+  #icon:
+  #  repo: material/web
   features:
     # - navigation.tabs
     - content.code.copy
@@ -42,4 +43,8 @@ extra:
     provider: google
     property: G-SQBKE2MSJ2
 
-copyright: Copyright &copy; 2026 idNINE(JongHoe Koo). All rights reserved.
+plugins:
+  - search
+  - meta
+  
+copyright: Copyright 2026 idNINE(JongHoe Koo). All rights reserved.
