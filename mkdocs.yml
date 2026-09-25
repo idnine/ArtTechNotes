@@ -2,10 +2,8 @@ site_name: idNINE | ArtTech Notes
 theme:
   name: material
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - content.code.copy
-nav:
-  - 'Home': 'https://idnine.ghost.io'
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -32,9 +30,15 @@ markdown_extensions:
 extra:
   social:
     - icon: material/web
-      link: https://idnine.kr
+      link: https://idnine.ghost.io
+      name: idNINE Home
     - icon: simple/instagram
       link: https://www.instagram.com/idnine_design/
+  nav:
+    - 'ShowControl' :
+      - 'QLab 활용' : showcontrol/qlab.md
+    - 'Interactive Device' :
+      - 'Sensor 제어' : interactive/sensor.md
   analytics:
     provider: google
     property: G-SQBKE2MSJ2
