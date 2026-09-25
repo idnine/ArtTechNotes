@@ -30,16 +30,6 @@ markdown_extensions:
       superscript: true
   - pymdownx.keys
   - pymdownx.tilde
-plugins:
-  - search
-  - awesome-pages
-
-nav:
-  - 'ShowControl' :
-    - 'QLab 활용' : showcontrol/qlab.md
-  - 'Interactive Device' :
-    - 'Sensor 제어' : interactive/sensor.md
-  - ...
 
 extra:
   social:
@@ -52,4 +42,4 @@ extra:
     provider: google
     property: G-SQBKE2MSJ2
 
-copyright: Copyright &copy; 2026 JongHoe Koo @idnine. All rights reserved.
+copyright: Copyright &copy; 2026 idNINE(JongHoe Koo). All rights reserved.
