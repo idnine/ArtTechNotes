@@ -2,4 +2,4 @@
 
 - idnine.kr 의 기술 노트 모음
 
-https://idnine.github.io/art-tech-notes
+[문서페이지로 바로가기](https://idnine.github.io/ArtTechNotes)
