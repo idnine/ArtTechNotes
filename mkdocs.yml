@@ -2,8 +2,10 @@ site_name: idNINE | ArtTech Notes
 theme:
   name: material
   features:
-    - navigation.footer
+    - navigation.tabs
     - content.code.copy
+nav:
+  - 'Home': 'https://idnine.ghost.io'
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -29,7 +31,7 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/homepage
+    - icon: material/web
       link: https://idnine.kr
     - icon: simple/instagram
       link: https://www.instagram.com/idnine_design/
