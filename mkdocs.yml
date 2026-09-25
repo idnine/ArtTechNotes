@@ -43,4 +43,8 @@ extra:
     provider: google
     property: G-SQBKE2MSJ2
 
-copyright: Copyright &copy; 2026 idNINE(JongHoe Koo). All rights reserved.
+plugins:
+  - search
+  - meta
+  
+copyright: Copyright 2026 idNINE(JongHoe Koo). All rights reserved.
