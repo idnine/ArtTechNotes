@@ -33,5 +33,8 @@ extra:
       link: https://idnine.kr
     - icon: simple/instagram
       link: https://www.instagram.com/idnine_design/
+  analytics:
+    provider: google
+    property: G-SQBKE2MSJ2
 
 copyright: Copyright &copy; 2026 JongHoe Koo @idnine. All rights reserved.
