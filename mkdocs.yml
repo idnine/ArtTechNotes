@@ -30,16 +30,6 @@ markdown_extensions:
       superscript: true
   - pymdownx.keys
   - pymdownx.tilde
-plugins:
-  - search
-  - awesome-pages
-
-nav:
-  - 'ShowControl' :
-    - 'QLab 활용' : showcontrol/qlab.md
-  - 'Interactive Device' :
-    - 'Sensor 제어' : interactive/sensor.md
-  - ...
 
 extra:
   social:
