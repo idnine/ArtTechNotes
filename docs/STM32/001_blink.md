@@ -34,7 +34,7 @@
 
 ```
 
-HAL_GPIO_Toggle()
+HAL_GPIO_TogglePin(LED_BUILIN_GPIO_Port, LED_BUILTIN_Pin)
 HAL_Delay(300);
 
 ```
